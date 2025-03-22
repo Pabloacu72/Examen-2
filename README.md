@@ -1,5 +1,4 @@
 # Examen-2
-examen 2
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
